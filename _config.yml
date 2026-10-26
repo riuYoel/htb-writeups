@@ -19,12 +19,12 @@ title: Tifon # the main title
 tagline: HTB Write-ups, mostly # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Here is where i will be publishing all my technical stuff
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: 'https://riuyoel.github.io'
-baseurl: '/htb-writeups' # (Asegúrate de que lleva la barra y el nombre exacto del repo)
+baseurl: '/htb-writeups'
 
 github:
   username: riuYoel # change to your GitHub username
