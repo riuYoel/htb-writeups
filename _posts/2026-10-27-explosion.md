@@ -1,7 +1,7 @@
 ---
 title: "Explosion - HackTheBox Write-up"
 date: 2026-10-27 12:00:00 +0200
-categories: [Write-up, Starting Point, VIP+, HackTheBox]
+categories: [Write-up, Starting Point, HackTheBox]
 tags: [windows, easy, ]
 pin: false
 image:
