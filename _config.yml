@@ -16,7 +16,7 @@ timezone:
 
 title: Tifon # the main title
 
-tagline: HTB Write-ups, mostly # it will display as the subtitle
+tagline: HTB Write-ups | Portfolio  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Here is where i will be publishing all my technical stuff
