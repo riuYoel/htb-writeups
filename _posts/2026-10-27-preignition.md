@@ -1,5 +1,5 @@
 ---
-title: "Preignition - HackTheBox Write-up"
+title: "Preignition - HackTheBox"
 date: 2026-10-27 13:00:00 +0200
 categories: [Write-up, Starting Point, HackTheBox]
 tags: [linux, easy, dir, gobuster, VIP+]

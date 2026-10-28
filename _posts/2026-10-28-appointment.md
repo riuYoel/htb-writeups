@@ -1,5 +1,5 @@
 ---
-title: "Appointment - HackTheBox Write-up"
+title: "Appointment - HackTheBox"
 date: 2026-10-28 17:00:00 +0200
 categories: [Write-up, Starting Point, HackTheBox]
 tags: [linux, easy, sql, web, gobuster]
