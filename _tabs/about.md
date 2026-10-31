@@ -54,5 +54,3 @@ I am a passionate offensive security learner focused on penetration testing. Dai
 
 * **C**
 * **Python**
-
----
